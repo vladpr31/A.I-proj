@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-
+#SmsFilter Multinomial Naive Bayes.
 
 def creating_vocab(series):
     vocab = []
